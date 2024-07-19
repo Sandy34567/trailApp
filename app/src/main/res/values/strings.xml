@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TrailApp</string>
+    <string name="image_desc">Image of the place</string>
+    <string name="tap_image">Tap on the image to see details</string>
+    <string name="place_name">Amber Fort</string>
+    <string name="place_details">Amber Fort is a fort located in Amer, Rajasthan, India. Amer is a town with an area of 4 square kilometres (1.5 sq mi)[2] located 11 kilometres (6.8 mi) from Jaipur, the capital of Rajasthan. </string>
+    <string name="wikipedia_link">More details on Wikipedia</string>
+    <string name="go_to_quiz">Go to Quiz</string>
+    <string name="popular_places">Popular places</string>
+    <string name="quiz_question">Amer Fort was built by Amer _____?</string>
+    <string name="option_1">Man Singh</string>
+    <string name="option_2"> Bishan Singh</string>
+    <string name="option_3">Jai Singh </string>
+    <string name="option_4">Bhawani Singh</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

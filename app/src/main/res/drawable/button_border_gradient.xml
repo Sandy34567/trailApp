@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:duration="3000">
+        <shape>
+            <corners android:radius="20dp" />
+            <stroke android:color="#EC2127"
+                android:width="2dp"/>
+            <gradient
+                android:endColor="@color/white"
+                android:startColor="@color/white" />
+        </shape>
+
+
+    </item>
+</animation-list>

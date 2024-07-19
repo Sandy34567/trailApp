@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    >
+
+    <!-- Top Bar -->
+
+    <!-- Featured Games Section -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Avaialble Soon!!"
+        android:textColor="#000"
+        android:textSize="24sp"
+        android:fontFamily="@font/figtree_bold"
+        android:textFontWeight="700"
+        />
+
+
+
+
+
+
+</LinearLayout>
